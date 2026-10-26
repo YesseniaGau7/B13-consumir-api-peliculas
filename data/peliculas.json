@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "titulo": "Interestelar",
+    "genero": "Ciencia ficción",
+    "anio": 2014,
+    "director": "Christopher Nolan",
+    "duracion": "169 min",
+    "descripcion": "Un grupo de exploradores viaja más allá de esta galaxia para descubrir si la humanidad tiene futuro entre las estrellas.",
+    "imagen": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "El origen",
+    "genero": "Ciencia ficción / Acción",
+    "anio": 2010,
+    "director": "Christopher Nolan",
+    "duracion": "148 min",
+    "descripcion": "Un ladrón que roba secretos a través de los sueños recibe una misión casi imposible: implantar una idea.",
+    "imagen": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Duna: Parte dos",
+    "genero": "Aventura / Ciencia ficción",
+    "anio": 2024,
+    "director": "Denis Villeneuve",
+    "duracion": "166 min",
+    "descripcion": "Paul Atreides se une a los Fremen mientras busca venganza y trata de evitar un futuro terrible.",
+    "imagen": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Oppenheimer",
+    "genero": "Drama / Historia",
+    "anio": 2023,
+    "director": "Christopher Nolan",
+    "duracion": "180 min",
+    "descripcion": "La historia del científico J. Robert Oppenheimer y su papel en el desarrollo de la bomba atómica.",
+    "imagen": "https://image.tmdb.org/t/p/w500/ptpr0kGAckfQkJeJIt8st5dglvd.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Batman: El caballero de la noche",
+    "genero": "Acción / Drama",
+    "anio": 2008,
+    "director": "Christopher Nolan",
+    "duracion": "152 min",
+    "descripcion": "Batman enfrenta al Joker, un criminal que busca sumir Gotham en el caos.",
+    "imagen": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "La La Land",
+    "genero": "Musical / Romance",
+    "anio": 2016,
+    "director": "Damien Chazelle",
+    "duracion": "128 min",
+    "descripcion": "Una aspirante a actriz y un músico de jazz intentan alcanzar sus sueños en Los Ángeles.",
+    "imagen": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0zf0.jpg"
+  }
+]

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Catálogo de películas consumido desde una API propia.">
+<title>CineVerse | Catálogo de películas</title><link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="hero"><nav class="navbar"><a class="brand" href="/">CineVerse<span>.</span></a><span class="api-status" id="apiStatus"><span class="status-dot"></span> Conectando con la API...</span></nav>
+<div class="hero-content"><p class="eyebrow">TU PRÓXIMA HISTORIA COMIENZA AQUÍ</p><h1>Historias que<br><span>merecen verse.</span></h1><p class="hero-description">Explora nuestro catálogo de películas. La información se carga dinámicamente desde una API propia.</p><a href="#catalogo" class="primary-button">Explorar catálogo <span>↓</span></a></div><div class="hero-decoration" aria-hidden="true">CINEMA</div></header>
+<main id="catalogo" class="catalog-section"><div class="section-heading"><div><p class="eyebrow">SELECCIÓN DE LA CASA</p><h2>Catálogo <span>de películas</span></h2></div><p id="movieCount" class="movie-count">Cargando títulos...</p></div><div id="message" class="message" role="status">Consultando la API...</div><section id="movieGrid" class="movie-grid" aria-label="Películas"></section></main>
+<footer><a class="brand" href="/">CineVerse<span>.</span></a><p>Proyecto académico · B13 Consumir su propia API</p><p class="footer-small">Los datos del catálogo se obtienen mediante JavaScript fetch() desde /api/peliculas.</p></footer>
+<script src="app.js"></script></body></html>

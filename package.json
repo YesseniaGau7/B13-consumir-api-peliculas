@@ -1,0 +1,12 @@
+{
+  "name": "b13-consumir-api-peliculas",
+  "version": "1.0.0",
+  "description": "API REST de películas con frontend que consume la API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
